@@ -1,0 +1,9 @@
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\bin\Debug\FastFood_orderingSystem.exe.config
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\bin\Debug\FastFood_orderingSystem.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\bin\Debug\FastFood_orderingSystem.pdb
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.csprojResolveAssemblyReference.cache
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.Form1.resources
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.Properties.Resources.resources
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.csproj.GenerateResource.Cache
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\FastFood_orderingSystem\FastFood_orderingSystem\obj\Debug\FastFood_orderingSystem.pdb
